@@ -1,10 +1,12 @@
+<img width="2545" height="1266" alt="Screenshot 2026-01-15 172252" src="https://github.com/user-attachments/assets/b93a8e3b-6ef5-4bc7-8b36-8b9acce1a32d" />
+<img width="2560" height="1440" alt="Screenshot 2026-01-15 171955" src="https://github.com/user-attachments/assets/7ad65290-b72d-4477-a3d1-2ef42891e365" />
+
 <img width="2559" height="1368" alt="Screenshot 2026-01-15 172530" src="https://github.com/user-attachments/assets/46b2ac80-1e72-40a7-96a0-14d370f29bf0" />
 <img width="2559" height="1350" alt="Screenshot 2026-01-15 172607" src="https://github.com/user-attachments/assets/573b726b-270d-413c-b1fa-749d85638b25" />
 <img width="2559" height="1352" alt="Screenshot 2026-01-15 172618" src="https://github.com/user-attachments/assets/d704c924-e65c-41b3-81d2-eac213cf71df" />
 <img width="2545" height="1352" alt="Screenshot 2026-01-15 172516" src="https://github.com/user-attachments/assets/77f50ecb-0fd8-4090-af87-5771bfd1ed1b" />
 <img width="2559" height="1407" alt="Screenshot 2026-01-15 172326" src="https://github.com/user-attachments/assets/dd7a5797-fedf-47f1-8cc0-9e64f2fa0475" />
 <img width="2554" height="1291" alt="Screenshot 2026-01-15 172303" src="https://github.com/user-attachments/assets/b5b5d7c4-e3b1-4b9d-93ea-5395a69007ad" />
-<img width="2560" height="1440" alt="Screenshot 2026-01-15 171955" src="https://github.com/user-attachments/assets/7ad65290-b72d-4477-a3d1-2ef42891e365" />
 
 1) Root README.md (create at project root)
 # EMS (Employee Management System)
