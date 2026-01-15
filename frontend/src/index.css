@@ -1,0 +1,6 @@
+body { background: #f6f7fb; }
+.card { border: 0; border-radius: 16px; }
+.shadow-soft { box-shadow: 0 10px 30px rgba(0,0,0,.06); }
+.btn { border-radius: 12px; }
+.form-control { border-radius: 12px; }
+.navbar { backdrop-filter: blur(10px); }
